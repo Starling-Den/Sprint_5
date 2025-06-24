@@ -1,0 +1,5 @@
+main_site = 'https://stellarburgers.nomoreparties.site/'
+login_site = 'https://stellarburgers.nomoreparties.site/login'
+account_site = 'https://stellarburgers.nomoreparties.site/account/profile'
+register_site = 'https://stellarburgers.nomoreparties.site/register'
+recovery_site = 'https://stellarburgers.nomoreparties.site/forgot-password'
